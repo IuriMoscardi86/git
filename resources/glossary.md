@@ -1,5 +1,5 @@
 ## Glossary
-Here's a glossary for the basic Git and Github terms that you'll need for this workshop:
+Here's a useful glossary for the basic Git and Github terms that you'll need for this workshop:
 
 **Git**: a version-control tool that lives on your computer. 
 
